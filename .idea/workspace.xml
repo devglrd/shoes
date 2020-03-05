@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc078cd3-63f0-4002-92c1-f3ce7c68db65" name="Default" comment="" />
+    <list default="true" id="cc078cd3-63f0-4002-92c1-f3ce7c68db65" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/items/controllers/items.controller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/items/controllers/items.controller.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/items/services/item.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/items/services/item.service.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,8 +38,11 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="$PROJECT_DIR$/node_modules/tslint" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -76,11 +83,17 @@
       <option name="presentableId" value="Default" />
       <updated>1545693304294</updated>
       <workItem from="1545693306971" duration="5904000" />
-      <workItem from="1583400832819" duration="1497000" />
+      <workItem from="1583400832819" duration="2768000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="673" y="454" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583405441490">
+      <screen x="39" y="23" width="1641" height="1027" />
+    </state>
+    <state x="673" y="454" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/39.23.1641.1027@39.23.1641.1027" timestamp="1583405441490" />
   </component>
 </project>

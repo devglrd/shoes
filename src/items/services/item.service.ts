@@ -23,6 +23,10 @@ export class ItemService {
     return await item.save();
   }
 
+  async show(id: string): Promise<ItemModel> {
+    return await this.model.findById(id);
+  }
+
   async update(id: string, model: ItemModel): Promise<ItemModel> {
     return await this.model.findByIdAndUpdate(id, model);
   }
